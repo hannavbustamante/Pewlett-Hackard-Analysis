@@ -46,7 +46,9 @@ Using Quick DBD to create a map of the database. This map will show us each tabl
 <i>Figure 2: Table with the employee’s data that are retirement-ready (no duplicates)
   </i>
 </p>
-3. The number of retiring employees grouped by title
+3. The number of retiring employees grouped by title.
+<br>
+
 - The table includes employees’ titles and the count of each title.
 - From this table we can quickly see how many employees with each title will retire in the next few years.
 <p align="center">  
@@ -72,12 +74,12 @@ Using Quick DBD to create a map of the database. This map will show us each tabl
 
 ## Summary
 
-### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+#### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
 90,398 roles will need to be filled as the "silver tsunami" begins to make an impact as these are the number of employees that would be ready for retirement. 
 
 
-### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+#### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
 Based on the list of employees eligible for the Mentorship Program, there are only 1,549 retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees.
 
